@@ -1,0 +1,19 @@
+{
+  "arch": "x86_64",
+  "build": "h2f4ed9d_0",
+  "build_number": 0,
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib-ng >=2.0.7,<2.1.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "name": "c-blosc2",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1705432739257,
+  "version": "2.12.0"
+}

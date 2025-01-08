@@ -1,0 +1,23 @@
+{
+  "build": "h2f4ed9d_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib-ng >=2.0.7,<2.1.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "fn": "c-blosc2-2.12.0-h2f4ed9d_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "0ef11bf46e349a8ea96e545bfa6532af",
+  "name": "c-blosc2",
+  "sha256": "67968dd942dbf4c1f2509c6fc30499d7b99cc106a9f7f5cbe50eea42e352d237",
+  "size": 227573,
+  "subdir": "win-64",
+  "timestamp": 1705432739000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/c-blosc2-2.12.0-h2f4ed9d_0.conda",
+  "version": "2.12.0"
+}

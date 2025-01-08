@@ -1,0 +1,147 @@
+{
+  "paths": [
+    {
+      "_path": "Library/bin/libblosc2.dll",
+      "path_type": "hardlink",
+      "sha256": "e2ae18df9fe5f23853986d7b18664af0e702dff7f382551d122bb1a134ae0b1c",
+      "size_in_bytes": 428032
+    },
+    {
+      "_path": "Library/cmake/Blosc2Config.cmake",
+      "path_type": "hardlink",
+      "sha256": "0b5a38a31b38a76bc68e6d8444234e703ddca582e482b3653ac2a6301ef43e94",
+      "size_in_bytes": 2494
+    },
+    {
+      "_path": "Library/cmake/Blosc2ConfigVersion.cmake",
+      "path_type": "hardlink",
+      "sha256": "bcb6028b32c3e30ad20732bc36d1e64979722db8bcfa9f70286063cd652374ee",
+      "size_in_bytes": 2830
+    },
+    {
+      "_path": "Library/cmake/Blosc2Targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "240ce504d19c6b5ceb01c5d9c0b34db6b6fd61032523dde4f1c2ee1e83e82d3d",
+      "size_in_bytes": 947
+    },
+    {
+      "_path": "Library/cmake/Blosc2Targets.cmake",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "C:/b/abs_94unlns7lh/croot/c-blosc2_1705431378030/_h_env",
+      "sha256": "68aed52094f59fc93d2cb44e48b20c4ba9170b99e74ad644e1c3889578773945",
+      "size_in_bytes": 4638
+    },
+    {
+      "_path": "Library/cmake/Modules/FindIPP.cmake",
+      "path_type": "hardlink",
+      "sha256": "07f1fc8be0572af2ba1bba023f97068bf2980e6f2bb954f5524d9b6036950bc0",
+      "size_in_bytes": 2091
+    },
+    {
+      "_path": "Library/cmake/Modules/FindLZ4.cmake",
+      "path_type": "hardlink",
+      "sha256": "3b7e3abc0a69cc5961a53e3e7c2b8f64930c7d4b1135eca36e59c1c35beea88a",
+      "size_in_bytes": 278
+    },
+    {
+      "_path": "Library/cmake/Modules/FindSIMD.cmake",
+      "path_type": "hardlink",
+      "sha256": "5c14422f8eafd2515d1177c075673cf1d06ffb5dc971ec30f61a8fa51bcaabbf",
+      "size_in_bytes": 2210
+    },
+    {
+      "_path": "Library/cmake/Modules/FindZLIB_NG.cmake",
+      "path_type": "hardlink",
+      "sha256": "2df350db8800c7b92a0af9544d0c9342800e5d2268dff5767f99c2718ccc5976",
+      "size_in_bytes": 2446
+    },
+    {
+      "_path": "Library/cmake/Modules/FindZSTD.cmake",
+      "path_type": "hardlink",
+      "sha256": "4fbd83ef1ea265e5f84f60ea23e1bc7061ac3114d2b30e790904ab552799a1ad",
+      "size_in_bytes": 204
+    },
+    {
+      "_path": "Library/cmake/Modules/toolchain-aarch64.cmake",
+      "path_type": "hardlink",
+      "sha256": "06ccb918a3ebf1e1ea2989d8665efe99890602e6608001fed9323fc526d002bb",
+      "size_in_bytes": 959
+    },
+    {
+      "_path": "Library/cmake/Modules/toolchain-armhf.cmake",
+      "path_type": "hardlink",
+      "sha256": "7260b7c8e6f4875ba40d36466e36fdc516c9c3691a2255803a3a8d51c6864b37",
+      "size_in_bytes": 995
+    },
+    {
+      "_path": "Library/cmake/Modules/toolchain-armsf.cmake",
+      "path_type": "hardlink",
+      "sha256": "cb027a7fa4feda5c0fe55e9b453dfa30a9fc403e176759a29a3e42bb760b271b",
+      "size_in_bytes": 1097
+    },
+    {
+      "_path": "Library/include/b2nd.h",
+      "path_type": "hardlink",
+      "sha256": "5c665a9cd68b16429a9dddda78ec54863702854170166c9c84d475c42bdbc549",
+      "size_in_bytes": 21335
+    },
+    {
+      "_path": "Library/include/blosc2.h",
+      "path_type": "hardlink",
+      "sha256": "13000f4a2fdeb89db191378d1f5bd33dc5cc2e2b186fdb82ac2410af4d027d99",
+      "size_in_bytes": 94908
+    },
+    {
+      "_path": "Library/include/blosc2/blosc2-common.h",
+      "path_type": "hardlink",
+      "sha256": "f7215809cd8833ce8e1f943a88be50c9c7d3d4331bd6896f822e67b0c7053e90",
+      "size_in_bytes": 2643
+    },
+    {
+      "_path": "Library/include/blosc2/blosc2-export.h",
+      "path_type": "hardlink",
+      "sha256": "97cd252d9897b04cf613b112d58e913ca721fb64d788b55bcecdde92957957aa",
+      "size_in_bytes": 1811
+    },
+    {
+      "_path": "Library/include/blosc2/blosc2-stdio.h",
+      "path_type": "hardlink",
+      "sha256": "26c94f65e18b4e086f022545b0ff5097756b116918d17a907f1af9223e64d44a",
+      "size_in_bytes": 1328
+    },
+    {
+      "_path": "Library/include/blosc2/codecs-registry.h",
+      "path_type": "hardlink",
+      "sha256": "860cf74d774db46d5bc840063b2f37ca88241daa6af1ededf4e3c12f5ed2ea9b",
+      "size_in_bytes": 1068
+    },
+    {
+      "_path": "Library/include/blosc2/filters-registry.h",
+      "path_type": "hardlink",
+      "sha256": "feffbd58985018bc15d2e3fe18e204418e0b4ea1cbbd9696e30d5725501e7ed7",
+      "size_in_bytes": 911
+    },
+    {
+      "_path": "Library/include/blosc2/tuners-registry.h",
+      "path_type": "hardlink",
+      "sha256": "cf132011a7758381daacd227974a22124b2fdd1cae146e11a3cf3f293615ad9a",
+      "size_in_bytes": 796
+    },
+    {
+      "_path": "Library/lib/blosc2.lib",
+      "path_type": "hardlink",
+      "sha256": "2ae7b93430d96a83cdd90b76ea4a17cd50a807b35907e7d38c8f50c3887549fa",
+      "size_in_bytes": 30342
+    },
+    {
+      "_path": "Library/lib/pkgconfig/blosc2.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "C:/b/abs_94unlns7lh/croot/c-blosc2_1705431378030/_h_env",
+      "sha256": "2a8252902d5adb55fce423f068b00028a89103bc9bb410c3828685075ad52446",
+      "size_in_bytes": 387
+    }
+  ],
+  "paths_version": 1
+}
